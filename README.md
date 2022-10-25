@@ -23,3 +23,7 @@ npm run build-prod
 ```shell
 npm run clear
 ```
+Автор оригинальной сборки Maksim Leskin
+```shell
+https://www.youtube.com/channel/UCkwr7q984xnJvL0m_nKnT5A
+```
